@@ -1,5 +1,6 @@
 # Multi-criteria-project
 To run the project, please follow the following steps:
+
 1.Install numpy, pandas (newest version)
 
 2. Replace the data_sample.csv with your data file
